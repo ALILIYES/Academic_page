@@ -14,7 +14,7 @@ social:
     icon_pack: fab
     link: https://instagram.com/geocushen
 organizations:
-  - name: 腾讯
+  - name: （System Optimization Lab in ECNU）SOLE
     url: ""
 superuser: true
 status:
