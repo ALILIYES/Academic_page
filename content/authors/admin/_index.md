@@ -1,6 +1,7 @@
 ---
 title: Li Yuyang（力宇阳）
 role: East China Normal University（Postgraduate）
+avatar_filename: 头像.png
 bio: My research interests include System optimization,Benchmark,Distributed system.
 social:
   - icon: envelope
